@@ -1,0 +1,23 @@
+/* Header */
+
+header {
+    position: fixed;
+}
+ .nav-bar {
+    position: relative;
+    float: right;
+}
+.nav-bar ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-bar li {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.content img {
+    float: left;
+}
